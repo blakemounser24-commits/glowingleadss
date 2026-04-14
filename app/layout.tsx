@@ -15,7 +15,6 @@ export const metadata: Metadata = {
   title: "GlowingLeads",
   description: "Black and white torus shader with rotating dots",
 }
-
 export default function RootLayout({
   children,
 }: Readonly<{
