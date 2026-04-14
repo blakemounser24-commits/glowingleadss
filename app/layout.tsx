@@ -12,7 +12,7 @@ const _geistMono = V0_Font_Geist_Mono({ subsets: ['latin'], weight: ["100","200"
 const _sourceSerif_4 = V0_Font_Source_Serif_4({ subsets: ['latin'], weight: ["200","300","400","500","600","700","800","900"] })
 
 export const metadata: Metadata = {
-  title: "Torus Shader Animation",
+  title: "glowingleads",
   description: "Black and white torus shader with rotating dots",
   generator: "v0.app",
   icons: {
