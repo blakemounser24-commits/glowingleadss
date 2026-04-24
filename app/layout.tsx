@@ -14,6 +14,9 @@ const _sourceSerif_4 = V0_Font_Source_Serif_4({ subsets: ['latin'], weight: ["20
 export const metadata: Metadata = {
   title: "GlowingLeads",
   description: "Black and white torus shader with rotating dots",
+icons: {
+  icon: '/favicon.ico',
+},
 }
 export default function RootLayout({
   children,
